@@ -1,6 +1,6 @@
 ### ¡Hola, soy Gonzalo! 👋
 
- - 🌱 I’m currently learning on ... Curso Full Stack Web developer de Digital House.
+ - 🌱 Education: Full Stack Web developer en Digital House.
  - 📫 gonzalolsk@gmail.com
  - 💬 Favorite quote: "Somos lo que hacemos día a día de modo que la excelencia no es un acto sino un hábito"
  
