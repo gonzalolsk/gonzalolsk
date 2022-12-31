@@ -1,8 +1,9 @@
 ### ¡Hola, soy Gonzalo! 👋
 
- - 🌱 Education:  - Full Stack Web developer (Digital House). 
-                   - Advanced JavaScript (Zero to Mastery Academy).
-                   - Complete React Develper (Zero to Mastery Academy).
+ - 🌱 Education:   
+     - Full Stack Web developer (Digital House). 
+     - Advanced JavaScript (Zero to Mastery Academy).
+     - Complete React Developer (Zero to Mastery Academy).
  - 📫 gonzalolsk@gmail.com
  - 💬 Favorite quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
  
