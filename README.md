@@ -1,12 +1,13 @@
 ### ¡Hola, soy Gonzalo! 👋
 
- - 🌱 Education: Full Stack Web developer en Digital House.
+ - 🌱 Education:  - Full Stack Web developer (Digital House). 
+                   - Advanced JavaScript (Zero to Mastery Academy).
+                   - Complete React Develper (Zero to Mastery Academy).
  - 📫 gonzalolsk@gmail.com
- - 💬 Favorite quote: "Somos lo que hacemos día a día de modo que la excelencia no es un acto sino un hábito"
+ - 💬 Favorite quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
  
 
 <!--
-
 Here are some ideas to get you started:
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
