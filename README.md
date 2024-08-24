@@ -7,6 +7,7 @@
  - 📫 gonzalolsk@gmail.com
  - 💬 Favorite quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
  - 📝 [My Linkedin Profile](https://www.linkedin.com/in/gonzalo-lorenzo-dev/)
+ - Online Profile: https://gonza-dev.vercel.app
  
 
 <!--
